@@ -8,6 +8,9 @@ A WordPress CLI plugin for generating Full Site Editing (FSE) themes with option
 - [Usage](#usage)
 - [Examples](#examples)
 - [License](#license)
+- [Author](#author)
+- [Credits](#credits)
+- [Contributing](#contributing)
 
 # Installation
 
@@ -21,10 +24,10 @@ To use the FSE Theme Generator Plugin, follow these steps:
 
 3. Activate the plugin through the WordPress admin dashboard:
 
-4. Log in to your WordPress admin panel.
-5. Go to "Plugins" in the left-hand menu.
-6. Find the "FSE Theme Generator" plugin in the list.
-7. Click the "Activate" button.
+   - Log in to your WordPress admin panel.
+   - Go to "Plugins" in the left-hand menu.
+   - Find the "FSE Theme Generator" plugin in the list.
+   - Click the "Activate" button.
 
 The plugin is now ready to use. You can access it using the WordPress CLI (wp) in the command line.
 
@@ -42,7 +45,7 @@ Generate a new FSE theme named `"my_fse_theme"` with Sass support:
 
 `wp generate_fse_theme my_fse_theme --sass=true`
 
-License
+# License
 This plugin is licensed under the GPL-2.0+ license. You are free to use, modify, and distribute it as per the terms of the GPL-2.0+ license.
 
 # Author
