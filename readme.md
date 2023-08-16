@@ -35,7 +35,7 @@ The plugin is now ready to use. You can access it using the WordPress CLI (wp) i
 
 Generate a new FSE theme using the following command:
 
-```wp generate_fse_theme <theme-name> [--sass=<sass>]```
+``` wp generate_fse_theme <theme-name> [--sass=<sass>] ```
 
 * `<theme-name>`: The name of the theme you want to generate.
 * `--sass=<sass>`: Whether to support Sass. Use --sass=true to enable Sass support.
@@ -43,7 +43,7 @@ Generate a new FSE theme using the following command:
 # Examples
 Generate a new FSE theme named `"my_fse_theme"` with Sass support:
 
-`wp generate_fse_theme my_fse_theme --sass=true`
+``` wp generate_fse_theme my_fse_theme --sass=true ```
 
 # License
 This plugin is licensed under the GPL-2.0+ license. You are free to use, modify, and distribute it as per the terms of the GPL-2.0+ license.
