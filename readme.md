@@ -50,3 +50,6 @@ Created by [Hilay Trivedi](https://profiles.wordpress.org/hilayt24/).
 
 # Credits
 The FSE Theme Generator Plugin is based on the WordPress CLI framework.
+
+# Contributing
+If you'd like to contribute to the FSE Theme Generator Plugin, please report [issues](https://github.com/HILAYTRIVEDI/FSE-Theme-Generator/issues) and submit pull requests.
