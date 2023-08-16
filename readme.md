@@ -9,7 +9,7 @@ A WordPress CLI plugin for generating Full Site Editing (FSE) themes with option
 - [Examples](#examples)
 - [License](#license)
 
-## Installation
+# Installation
 
 To use the FSE Theme Generator Plugin, follow these steps:
 
