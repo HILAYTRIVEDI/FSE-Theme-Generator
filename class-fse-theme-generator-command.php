@@ -197,7 +197,7 @@ class FSE_Theme_Generator_Command extends WP_CLI_Command {
 			'name'            => strtolower( $theme_name ),
 			'version'         => '1.0.0',
 			'description'     => 'Your theme Description',
-			'author'          => 'Hilay Trivedi',
+			'author'          => 'John Doe',
 			'license'         => 'GPL2+',
 			'keywords'        => array(
 				'WordPress',
